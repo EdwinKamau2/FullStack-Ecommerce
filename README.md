@@ -3,6 +3,9 @@ A FullStack Ecommerce App built with Django and React.
 <p id ="top" align="center">
   <img src="https://github.com/EdwinKamau2/FullStack-Ecommerce/blob/master/backend/static/images/ecommerce.png?raw=true" width="100%"> 
  </p>
+
+
+
 # Table of contents
 - [About_this_App](#About_this_App)
 - [App_Overview](#App_Overview)
